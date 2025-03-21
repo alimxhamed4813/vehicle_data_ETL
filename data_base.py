@@ -28,8 +28,3 @@ def create_tables():
 
 if __name__ == "__main__":
     create_tables()
-    year = 1980
-    make = "BRITISH LEYLAND"
-    model = "MGB"
-    specific_model = make
-    curb_weight = 1.2
